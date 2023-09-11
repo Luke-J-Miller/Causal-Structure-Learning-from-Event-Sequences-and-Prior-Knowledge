@@ -18,3 +18,6 @@ Converts the data to a sparse, consistently sized matrix.  Slices the times into
 
 ### [csl-processed-data-unpacker.ipynb](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/blob/main/src/csl-processed-data-unpacker.ipynb)
 A simple notebook that unpickles and converts from csr format to a sparsedataset.
+
+## [Results](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/tree/main/results)
+Currently empty.  Hopefully, there's something here soon.
