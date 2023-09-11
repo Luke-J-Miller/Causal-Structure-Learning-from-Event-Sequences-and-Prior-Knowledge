@@ -11,13 +11,13 @@ This dataset is very sparse which makes it easier to use with a variety of model
 ## [src](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/tree/main/src)
 Currently contains 3 files
 - ### [csl-data-exploration-r.r](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/blob/main/src/csl-data-exploration-r.r)
-- - Just an introductory look at the data to understand its structure.
+ - Just an introductory look at the data to understand its structure.
 
 - ### [data_cleanining_and_compression.ipynb](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/blob/main/src/data-cleaning-and-compression.ipynb)
-- - Converts the data to a sparse, consistently sized matrix.  Slices the times into 1024 chunks, and compresses the data using csr and pickle for easy transfer.
+ - Converts the data to a sparse, consistently sized matrix.  Slices the times into 1024 chunks, and compresses the data using csr and pickle for easy transfer.
 
 - ### [csl-processed-data-unpacker.ipynb](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/blob/main/src/csl-processed-data-unpacker.ipynb)
-- - A simple notebook that unpickles and converts from csr format to a sparsedataset.
+ - A simple notebook that unpickles and converts from csr format to a sparsedataset.
 
 ## [results](https://github.com/Luke-J-Miller/Causal-Structure-Learning-from-Event-Sequences-and-Prior-Knowledge/tree/main/results)
 Currently empty.  Hopefully, there's something here soon.
